@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+.class1{
+  background-image: url('../public/wallpaper.jpg');
+  background-size: cover;
+}
